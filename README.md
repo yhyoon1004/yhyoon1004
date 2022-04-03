@@ -13,7 +13,7 @@ Personal Study Section
   2022 - 정보처리산업기사,  HTML/CSS, JavaScript/JQuery, JSP model 2 ...   
   
   Reference Book   
-  ![공부서적01](https://user-images.githubusercontent.com/79188190/161412550-acf43a53-d60f-4f6c-adee-e0dffa85150d.png)
+![공부서적01](https://user-images.githubusercontent.com/79188190/161412550-acf43a53-d60f-4f6c-adee-e0dffa85150d.png)
 ![공부서적02](https://user-images.githubusercontent.com/79188190/161412552-e97cdc15-93b0-4229-b758-4bcb0d839ef4.png)
 ![공부서적03](https://user-images.githubusercontent.com/79188190/161412553-f34149be-6394-4693-90b4-11e06d730e5c.png)
 ![공부서적04](https://user-images.githubusercontent.com/79188190/161412555-a38d79de-bb37-43b0-aa86-fd878385ced4.png)
@@ -25,10 +25,12 @@ Personal Study Section
       https://youtube.com/playlist?list=PLC51MBz7PMyyyR2l4gGBMFMMUfYmBkZxm   
     -Jsp model 1,2   
       https://inf.run/7GGs   
+      ![jsp 수료증](https://user-images.githubusercontent.com/79188190/161413168-eb55dc93-1ff2-4ad6-99b6-9552b9f4ed86.png)
     -Javascript/JQuery   
       https://inf.run/1FF7   
     
-
+Achieve of My Life   
+-Achievement Award(공로상)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhyoon1004)](https://github.com/깃허브아이디/github-readme-stats)   
 <img src="https://user-images.githubusercontent.com/79188190/161084940-068688f8-4d1d-4491-bc97-4f1fc424dbcc.jpg" width="400" height="400"/>
 <img src="https://user-images.githubusercontent.com/79188190/161084965-d91d7029-70cc-43d5-8187-5c6d9d9c6156.jpg" width="400" height="400"/>

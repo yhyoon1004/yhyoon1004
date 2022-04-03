@@ -25,7 +25,7 @@ Personal Study Section
       https://youtube.com/playlist?list=PLC51MBz7PMyyyR2l4gGBMFMMUfYmBkZxm   
     -Jsp model 1,2   
       https://inf.run/7GGs   
-      ![jsp 수료증](https://user-images.githubusercontent.com/79188190/161413168-eb55dc93-1ff2-4ad6-99b6-9552b9f4ed86.png)
+      ![jsp 수료증](https://user-images.githubusercontent.com/79188190/161413168-eb55dc93-1ff2-4ad6-99b6-9552b9f4ed86.png)   
     -Javascript/JQuery   
       https://inf.run/1FF7   
     

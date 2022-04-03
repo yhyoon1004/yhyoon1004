@@ -2,7 +2,7 @@
 career section   
    2017 - graduate Kyungshin High School   
    2018 - attending seoil University    
-   2019 - 학회장   
+   2019 - Seoil University Software Engineering Student Council President(학회장)[서일대학교 소프트웨어공학과]
    2020 - Millitary service (병역)[12사단 17연대 3대대 본부중대 통신소대]   
    2021 - Service of Social Work Personnel(사회복무요원) [중구시설관리공단_전략기획실]   
    2022 - attending seoil University   
@@ -19,13 +19,13 @@ Personal Study section
 ![공부서적04](https://user-images.githubusercontent.com/79188190/161412555-a38d79de-bb37-43b0-aa86-fd878385ced4.png)
 ![공부서적05](https://user-images.githubusercontent.com/79188190/161412556-c52e9ac5-cc82-414c-abc4-b2099b31ac37.png)   
   Reference Lecture   
-    Java   
+    -Java   
       https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp   
-    Android   
+    -Android   
       https://youtube.com/playlist?list=PLC51MBz7PMyyyR2l4gGBMFMMUfYmBkZxm   
-    Jsp model 1,2   
+    -Jsp model 1,2   
       https://inf.run/7GGs   
-    Javascript/JQuery   
+    -Javascript/JQuery   
       https://inf.run/1FF7   
     
 

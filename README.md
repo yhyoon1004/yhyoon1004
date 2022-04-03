@@ -30,9 +30,9 @@ Personal Study Section
       https://inf.run/1FF7   
     
 Achieve of My Life   
--Achievement Award(공로상)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhyoon1004)](https://github.com/깃허브아이디/github-readme-stats)   
-<img src="https://user-images.githubusercontent.com/79188190/161084940-068688f8-4d1d-4491-bc97-4f1fc424dbcc.jpg" width="400" height="400"/>
-<img src="https://user-images.githubusercontent.com/79188190/161084965-d91d7029-70cc-43d5-8187-5c6d9d9c6156.jpg" width="400" height="400"/>
-<img src="https://user-images.githubusercontent.com/79188190/161084972-2e9fcc44-4354-4b1e-abaf-e733d3dd0736.jpg" width="400" height="400"/>
+- 2019년 서일대학교 공로상
+<img src="https://user-images.githubusercontent.com/79188190/161084940-068688f8-4d1d-4491-bc97-4f1fc424dbcc.jpg" width="400" height="400"/>   
+- 2018년 서일대학교 용마체육대회 농구 우승  
+<img src="https://user-images.githubusercontent.com/79188190/161084972-2e9fcc44-4354-4b1e-abaf-e733d3dd0736.jpg" width="400" height="400"/>   
+-2021년 서울시 은평구 협회장배 농구대회 우승   
 <img src="https://user-images.githubusercontent.com/79188190/161085018-f31f83d5-bb1f-4cc5-bec3-470420d0f064.jpg" width="400" height="400"/>

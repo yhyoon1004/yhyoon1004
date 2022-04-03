@@ -1,5 +1,5 @@
 ### Hi there 👋   
-career section   
+Career Section   
    2017 - graduate Kyungshin High School   
    2018 - attending Seoil University    
    2019 - Seoil University Software Engineering Student Council President (학생회장) [서일대학교 소프트웨어공학과]    
@@ -7,7 +7,7 @@ career section
    2021 - Service of Social Work Personnel (사회복무요원) [중구시설관리공단_전략기획실]   
    2022 - attending Seoil University, Team_MENTOSS Project_MenMeet   
       
-Personal Study section   
+Personal Study Section   
   2020 - Android   
   2021 - Java, DB, JSP model 1   
   2022 - 정보처리산업기사,  HTML/CSS, JavaScript/JQuery, JSP model 2 ...   

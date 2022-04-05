@@ -1,5 +1,5 @@
 ### Hi there 👋   
-# My Notion Page
+# YunHwan Notion Page
    https://wandering-stinger-874.notion.site/ff298ea8418940c1a46de5c0c243f814   
    
    -개발자 잡지식   
@@ -29,7 +29,7 @@
    
 
 
-# Career Section   
+# YunHwan Career Section   
    2017 - Graduate Kyungshin High School   
    2018 - Attending Seoil University    
    2019 - Seoil University Software Engineering Student Council President (학생회장) [서일대학교 소프트웨어공학과]    

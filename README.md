@@ -47,7 +47,7 @@
 ![공부서적02](https://user-images.githubusercontent.com/79188190/161412552-e97cdc15-93b0-4229-b758-4bcb0d839ef4.png)
 ![공부서적03](https://user-images.githubusercontent.com/79188190/161412553-f34149be-6394-4693-90b4-11e06d730e5c.png)
 ![공부서적04](https://user-images.githubusercontent.com/79188190/161412555-a38d79de-bb37-43b0-aa86-fd878385ced4.png)
-![공부서적05](https://user-images.githubusercontent.com/79188190/161412556-c52e9ac5-cc82-414c-abc4-b2099b31ac37.png)  
+![공부서적05](https://user-images.githubusercontent.com/79188190/161412556-c52e9ac5-cc82-414c-abc4-b2099b31ac37.png)
 ![공부서적06](https://user-images.githubusercontent.com/79188190/162111784-43141106-32a7-4ac7-9a8e-4612cb1fd0d0.png)   
  
  

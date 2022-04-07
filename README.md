@@ -48,24 +48,24 @@
   - 윤환의 스케줄     
   https://wandering-stinger-874.notion.site/ff298ea8418940c1a46de5c0c243f814   
    
-   -개발자 잡지식   
-   https://wandering-stinger-874.notion.site/107543e24dfc4bb48151ec9a8c5aee95   
+  -개발자 잡지식   
+  https://wandering-stinger-874.notion.site/107543e24dfc4bb48151ec9a8c5aee95   
    
-   -에러발생 QnA   
-   https://wandering-stinger-874.notion.site/QnA-8365354ca6f449acb04a91e79dc6bda7   
+  -에러발생 QnA   
+  https://wandering-stinger-874.notion.site/QnA-8365354ca6f449acb04a91e79dc6bda7   
    
-   -프로그래밍 공부중 궁궁증   
-   https://wandering-stinger-874.notion.site/fe6612339605462eb3582f7b908c6ed3    
+  -프로그래밍 공부중 궁궁증   
+  https://wandering-stinger-874.notion.site/fe6612339605462eb3582f7b908c6ed3    
    
-   -HTML/CSS/JS   
-   https://wandering-stinger-874.notion.site/HTML-CSS-d3d3d56003024ccd867a874faab591c7   
+  -HTML/CSS/JS   
+  https://wandering-stinger-874.notion.site/HTML-CSS-d3d3d56003024ccd867a874faab591c7   
    
-   -JAVA   
-   https://wandering-stinger-874.notion.site/JAVA-9db50885092342b490c70809a9502f20    
+  -JAVA   
+  https://wandering-stinger-874.notion.site/JAVA-9db50885092342b490c70809a9502f20    
    
-   -JSP   
-   https://wandering-stinger-874.notion.site/JSP-907dcce24ded4c0698f6a54b2628fcd8   
-   https://wandering-stinger-874.notion.site/JSP-9e85979182df488ea0645fc8ab2222d9   
+  -JSP   
+  https://wandering-stinger-874.notion.site/JSP-907dcce24ded4c0698f6a54b2628fcd8   
+  https://wandering-stinger-874.notion.site/JSP-9e85979182df488ea0645fc8ab2222d9   
    
   
    -DB Connection   

@@ -1,5 +1,5 @@
 ### Hi there 👋   
-# YunHwan Notion Page
+# :memo: YunHwan Notion Page
    https://wandering-stinger-874.notion.site/ff298ea8418940c1a46de5c0c243f814   
    
    -개발자 잡지식   
@@ -29,7 +29,7 @@
    
 
 
-# YunHwan Career Section   
+# :black_nib: YunHwan Career Section   
    2017 - Graduate Kyungshin High School   
    2018 - Attending Seoil University    
    2019 - Seoil University Software Engineering Student Council President (학생회장) [서일대학교 소프트웨어공학과]    
@@ -37,7 +37,7 @@
    2021 - Service of Social Work Personnel (사회복무요원) [중구시설관리공단_전략기획실]   
    2022 - Attending Seoil University, Team_MENTOSS Project_MenMeet   
       
-# Personal Study Section   
+# :books: Personal Study Section   
   2020 - Android   
   2021 - Java, DB, JSP model 1   
   2022 - 정보처리산업기사,  HTML/CSS, JavaScript/JQuery, JSP model 2 ...   

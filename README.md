@@ -45,7 +45,8 @@
 
 
 # :memo: YunHwan Notion Page
-   https://wandering-stinger-874.notion.site/ff298ea8418940c1a46de5c0c243f814   
+  - 윤환의 스케줄 노션 
+  https://wandering-stinger-874.notion.site/ff298ea8418940c1a46de5c0c243f814   
    
    -개발자 잡지식   
    https://wandering-stinger-874.notion.site/107543e24dfc4bb48151ec9a8c5aee95   

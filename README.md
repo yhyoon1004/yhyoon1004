@@ -33,7 +33,7 @@
     -Javascript/JQuery   
       https://inf.run/1FF7   
     
-# 🔏 Have T Study
+# 🔏 Have To Study
    -Spring FrameWork, Boot   
    -AJAX 동기프로그래밍
    

@@ -33,6 +33,10 @@
     -Javascript/JQuery   
       https://inf.run/1FF7   
     
+# 🔏 Have TO Study
+   -Spring FrameWork, Boot   
+   -AJAX 동기프로그래밍
+   
 # :trophy: Achieve of My Life   
 - 2019년 서일대학교 공로상
 <img src="https://user-images.githubusercontent.com/79188190/161084940-068688f8-4d1d-4491-bc97-4f1fc424dbcc.jpg" width="400" height="400"/>   

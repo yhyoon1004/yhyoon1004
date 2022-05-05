@@ -30,6 +30,8 @@
     -Jsp model 1,2   
       https://inf.run/7GGs   
       ![jsp 수료증](https://user-images.githubusercontent.com/79188190/161413168-eb55dc93-1ff2-4ad6-99b6-9552b9f4ed86.png)   
+      ![image](https://user-images.githubusercontent.com/79188190/166868287-44a34d45-8a69-49d4-bc7d-2404fc192b9c.png)   
+
     -Javascript/JQuery   
       https://inf.run/1FF7   
     

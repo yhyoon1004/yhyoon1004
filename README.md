@@ -9,8 +9,11 @@
    2022 - Attending Seoil University, Team_MENTOSS Project_MenMeet, 뿌셔뿌셔 알고리즘맛(서일대학교 3C 알고리즘스터디)   
       
 # :books: Personal Study Section   
-  2021 - Java, DB, JSP model 1   
-  2022 - 정보처리산업기사,  HTML/CSS/js, JSP Model 2   
+  2018 - 대학수업 c언어, 컴퓨터 구조 및 개론, UI·UX, HTML/js 등등 기본 개념   
+  2019 - 데이터베이스, 운영체제, 알고리즘 등등 기본 개념   
+  2020 - 군입대 정보체계 운용병과 통신 회선 연결 및 설치 공부   
+  2021 - Java, JSP model 1 등등 동영상 강의 사이트를 통한 개인 프로젝트 실습 및 공부    
+  2022 - 정보처리산업기사 자격증 공부, JSP Model 2, SpringFramework, AWS, Maven, OpenAPI 등을 사용한 프로젝트, DevOps교육과정을 통한 도커 공부    
   
   Reference Book   
 ![공부서적01](https://user-images.githubusercontent.com/79188190/161412550-acf43a53-d60f-4f6c-adee-e0dffa85150d.png)
@@ -18,7 +21,9 @@
 ![공부서적03](https://user-images.githubusercontent.com/79188190/161412553-f34149be-6394-4693-90b4-11e06d730e5c.png)
 ![공부서적04](https://user-images.githubusercontent.com/79188190/161412555-a38d79de-bb37-43b0-aa86-fd878385ced4.png)
 ![공부서적05](https://user-images.githubusercontent.com/79188190/161412556-c52e9ac5-cc82-414c-abc4-b2099b31ac37.png)
-![공부서적06](https://user-images.githubusercontent.com/79188190/162111784-43141106-32a7-4ac7-9a8e-4612cb1fd0d0.png)   
+![공부서적06](https://user-images.githubusercontent.com/79188190/162111784-43141106-32a7-4ac7-9a8e-4612cb1fd0d0.png)
+![image](https://user-images.githubusercontent.com/79188190/175238974-15d9cae8-5ec1-4006-8a5f-68450fe42891.png)   
+
  
  
  Reference Lecture   
@@ -38,39 +43,18 @@
    -AJAX 동기프로그래밍
    
 # :trophy: Achieve of My Life   
-- 2019년 서일대학교 공로상
-<img src="https://user-images.githubusercontent.com/79188190/161084940-068688f8-4d1d-4491-bc97-4f1fc424dbcc.jpg" width="400" height="400"/>   
-
-- 2018년 서일대학교 용마체육대회 농구 우승  
-<img src="https://user-images.githubusercontent.com/79188190/161084972-2e9fcc44-4354-4b1e-abaf-e733d3dd0736.jpg" width="400" height="400"/>   
+- 2022년 정보처리산업기사 자격증 취득   
+<img src="https://user-images.githubusercontent.com/79188190/175237297-d6e6c74d-b5ab-4bca-8198-005b4ef56dc6.jpg" width="400" height="400"/>   
 
 - 2021년 서울시 은평구 협회장배 농구대회 우승   
 <img src="https://user-images.githubusercontent.com/79188190/161085018-f31f83d5-bb1f-4cc5-bec3-470420d0f064.jpg" width="400" height="400"/>   
 
+- 2019년 서일대학교 공로상
+<img src="https://user-images.githubusercontent.com/79188190/161084940-068688f8-4d1d-4491-bc97-4f1fc424dbcc.jpg" width="400" height="400"/>   
+
+- 2018년 서일대학교 용마체육대회 농구 우승  
+<img src="https://user-images.githubusercontent.com/79188190/161084972-2e9fcc44-4354-4b1e-abaf-e733d3dd0736.jpg" width="400" height="400"/> 
 
 # :memo: YunHwan Notion Page
-  - 윤환의 스케줄     
-  https://www.notion.so/bc5c5797d0404c4da5a51099c3c0dd95   
-  - 개발자 잡지식   
-  https://wandering-stinger-874.notion.site/107543e24dfc4bb48151ec9a8c5aee95   
-   
-  - 에러발생 QnA   
-  https://wandering-stinger-874.notion.site/QnA-8365354ca6f449acb04a91e79dc6bda7   
-   
-  - 프로그래밍 공부중 궁궁증   
-  https://wandering-stinger-874.notion.site/fe6612339605462eb3582f7b908c6ed3    
-   
-  - HTML/CSS/JS   
-  https://wandering-stinger-874.notion.site/HTML-CSS-d3d3d56003024ccd867a874faab591c7   
-   
-  - JAVA   
-  https://wandering-stinger-874.notion.site/JAVA-9db50885092342b490c70809a9502f20    
-   
-  - JSP   
-  https://wandering-stinger-874.notion.site/JSP-907dcce24ded4c0698f6a54b2628fcd8   
-  https://wandering-stinger-874.notion.site/JSP-9e85979182df488ea0645fc8ab2222d9   
-   
-  
-   - DB Connection   
-   https://www.notion.so/DB-18545d3cc4d44beb99be6a2c4ae218ec   
-   
+  - 성장하는 개발자 윤환  
+  https://www.notion.so/bc5c5797d0404c4da5a51099c3c0dd95      

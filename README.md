@@ -27,9 +27,8 @@
  Reference Lecture   
     -Java   
       https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp   
-    -Android   
-      https://youtube.com/playlist?list=PLC51MBz7PMyyyR2l4gGBMFMMUfYmBkZxm   
     -Jsp model 1,2   
+      https://youtube.com/playlist?list=PLq8wAnVUcTFVOtENMsujSgtv2TOsMy8zd   
       https://inf.run/7GGs   
       ![jsp 수료증](https://user-images.githubusercontent.com/79188190/161413168-eb55dc93-1ff2-4ad6-99b6-9552b9f4ed86.png)   
       ![image](https://user-images.githubusercontent.com/79188190/166868445-edbc470e-85f7-4db4-b234-60448d160cf2.png)   
@@ -37,8 +36,9 @@
       https://inf.run/1FF7   
     
 # 🔏 Have To Study
-   -Spring FrameWork, Boot   
-   -AJAX 동기프로그래밍
+   -Spring FrameWork   
+   -AWS   
+   -OpenAPI를 활용한 웹 프로젝트   
    
 # :trophy: Achieve of My Life   
 - 2022년 정보처리산업기사 자격증 취득   

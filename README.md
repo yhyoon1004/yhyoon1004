@@ -66,4 +66,4 @@
 
 # :memo: YunHwan Notion Page
   - 성장하는 개발자 윤환  
-  https://www.notion.so/bc5c5797d0404c4da5a51099c3c0dd95      
+  https://wandering-stinger-874.notion.site/f5bef7014df9400ca4e7fb9a51791ed3      

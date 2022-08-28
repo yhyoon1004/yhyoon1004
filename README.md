@@ -1,5 +1,5 @@
 #  :satisfied: YunHwan's Notion
-  https://wandering-stinger-874.notion.site/f5bef7014df9400ca4e7fb9a51791ed3      
+  https://www.notion.so/f5bef7014df9400ca4e7fb9a51791ed3      
 #   :computer: YunHwan Tech Stack   
 ### Main technology 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 

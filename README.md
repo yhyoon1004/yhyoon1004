@@ -1,5 +1,6 @@
 #  :satisfied: YunHwan's Notion
-  https://www.notion.so/f5bef7014df9400ca4e7fb9a51791ed3      
+ 📰 Main Page : https://www.notion.so/f5bef7014df9400ca4e7fb9a51791ed3      
+ 📝 TIL(Today I Learn) : https://chivalrous-octopus-fa5.notion.site/TIL-4637dc6eb5f3454eaa9af601d65f6f8d
 #   :computer: YunHwan Tech Stack   
 ### Main technology 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 

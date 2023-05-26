@@ -19,15 +19,15 @@
  <img src="https://img.shields.io/badge/react-696969?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/next-333333?style=for-the-badge&logo=nextdotjs&logoColor=white">
  <img src="https://img.shields.io/badge/spring-236DB33F?style=for-the-badge&logo=spring&logoColor=white">
- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+ <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 ### DataBase
 <div>
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
- <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
- <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img src="https://img.shields.io/badge/Maria-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+ <img src="https://img.shields.io/badge/mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 

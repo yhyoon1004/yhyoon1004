@@ -4,7 +4,7 @@
  2. https://wandering-stinger-874.notion.site/f5bef7014df9400ca4e7fb9a51791ed3  
  📝 TIL(Today I Learn) : https://chivalrous-octopus-fa5.notion.site/TIL-4637dc6eb5f3454eaa9af601d65f6f8d
 
-#   :computer: echnology Experience   
+#   :computer: Technology Experience   
 
 ### Programming Language 
 <div>

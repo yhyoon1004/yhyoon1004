@@ -10,14 +10,13 @@
   - reading book at least 20min  📖
 
  Weekday (after working company)
- - push up (100) 💪
  - side project 🖥️
  - reading book 📖
  
  Weekend/Holiday  (same as working time)
  - 9-12 : reading book 📖 || playing basketball ⛹️‍♂️
  - 14-18 : straighten out ( CS / TIL ) to Notion 📝 , Learn Lecture 👨‍🏫
- - 18-24 : free time 
+ - 18-24 : free time 🆓
  
 #   👨‍🔧 Technology Experience   
 <ul>

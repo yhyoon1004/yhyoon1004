@@ -2,21 +2,6 @@
  - 📰 Pages > https://chivalrous-octopus-fa5.notion.site/947fb4e5cd234876afeb48a02b6236bf?pvs=4
  - 📄 blog > https://dev-yunhwan.tistory.com
  - 📝 TIL(Today I Learn) > https://chivalrous-octopus-fa5.notion.site/TIL-4637dc6eb5f3454eaa9af601d65f6f8d
-# ⏲️Schedule   
- Everyday  
-  - wake up 06:00 and push up 100 💪
-  - memorizing TOEIC Words 2 section (in the bus) solving TOEIC Problems 
-  - after work, push up 100 💪
-  - reading book at least 20min  📖
-
- Weekday (after working company)
- - side project 🖥️
- - reading book 📖
- 
- Weekend/Holiday  (same as working time)
- - 9-12 : reading book 📖 || playing basketball ⛹️‍♂️
- - 14-18 : straighten out ( CS / TIL ) to blog 📝 , Learn Lecture 👨‍🏫
- - 18-24 : free time 🆓
  
 #   👨‍🔧 Technology Experience   
 <ul>

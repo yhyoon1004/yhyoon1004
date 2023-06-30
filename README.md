@@ -1,7 +1,6 @@
 #  👨‍💼 YunHwan's Notion
  - 📰 Pages > https://chivalrous-octopus-fa5.notion.site/947fb4e5cd234876afeb48a02b6236bf?pvs=4
  - 📄 blog > https://dev-yunhwan.tistory.com
- - 📝 TIL(Today I Learn) > https://chivalrous-octopus-fa5.notion.site/TIL-4637dc6eb5f3454eaa9af601d65f6f8d
  
 #   👨‍🔧 Technology Experience   
 <ul>

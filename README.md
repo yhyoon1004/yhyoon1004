@@ -1,4 +1,4 @@
-#  👨‍💼 YunHwan's Notion
+#  👨‍💼 YunHwan's
  - 📰 Pages > https://chivalrous-octopus-fa5.notion.site/947fb4e5cd234876afeb48a02b6236bf?pvs=4
  - 📄 blog > https://dev-yunhwan.tistory.com
  

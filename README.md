@@ -1,16 +1,6 @@
 #  👨‍💼 YunHwan's
  - 📄 blog > https://dev-yunhwan.tistory.com
- ### what i can do?
- - use basic bootstrap usage, responsive web, jquery
- - SPA(using nextjs)
- - RestAPI (using springboot, laravel, etc .. )
- - simple WebSocket chatroom (using springboot)
- - simple Oauth2 login function (using springboot)
- - project cicd pipeline (using github action, docker compose-file)
- - simple webServer (using nginx)
- - Scheduler program (using springboot)
- - simple server (using aws, cafe24)
- - basic DB server(mysql)
+
 #   👨‍🔧 Technology Experience   
 <ul>
  

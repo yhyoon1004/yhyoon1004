@@ -1,5 +1,5 @@
 #  👨‍💼 YunHwan's
- - :accessibility: > FrontEnd BackEnd CICD K8S
+ - :accessibility: ability > `FullStack` , `CICD` , `K8S`
  - 📄 blog > https://dev-yunhwan.tistory.com
 
 # Recently Thoughts (느낀점)

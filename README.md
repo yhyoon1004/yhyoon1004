@@ -1,7 +1,8 @@
 #  👨‍💼 YunHwan's
+ - 🧾 My Site > https://www.yunhwan.kr   
  - :accessibility: ability > `FullStack` , `CICD` , `K8S` , `Infra`
  - 📄 blog > https://dev-yunhwan.tistory.com
- - 🚗 The site I developed > https://renteasy.co.kr             
+ - 🚗 RentCar Site I developed > https://renteasy.co.kr            
 
 # Recently Thoughts (느낀점)
 - 무엇보다 하면서 조금은 즐거워야된다
